@@ -6,5 +6,3 @@ El usuario deberá agregar nombres mediante un campo de texto y un botón "Adici
 - `Validar entradas:` Si el campo de texto está vacío, el programa mostrará una alerta pidiendo un nombre válido.
 - `Vizualizar la lista:` Los nombres ingresados aparecerán en una lista debajo del campo de entrada.
 - `Sorteo aleatorio:` Al hacer clic en el botón "Sortear Amigo", se seleccionará aleatoriamente un nombre de la lista y se mostrará en la página.
-
-🚧 Proyecto en Construcción 🚧
